@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Input.h(5,14): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Time.h(2,14): warning C4091: 'static ': ignored on left of 'Time' when no variable is declared
+  GameObject.vcxproj -> C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Debug\The_Stunks.exe
+          1 file(s) copied.

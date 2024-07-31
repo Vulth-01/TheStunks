@@ -1,0 +1,159 @@
+﻿  Bishop.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(92,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(92,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(92,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(162,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(184,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(184,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(184,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(185,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(185,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(185,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(186,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(186,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(186,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(187,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(187,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(187,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(199,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(199,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Bishop.cpp(199,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  CameraController.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Time.h(2,14): warning C4091: 'static ': ignored on left of 'Time' when no variable is declared
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Input.h(5,14): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\CameraController.cpp(84,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\CameraController.cpp(85,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ChessBoard.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessBoard.cpp(296,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ChessPiece.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(64,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(66,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(73,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(82,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(90,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(98,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(108,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(116,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(124,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(132,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(143,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(144,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(144,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(145,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(151,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(160,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(168,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(176,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(186,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(194,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(202,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\ChessPiece.cpp(210,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameObject.cpp
+  HeightMap.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\HeightMap.cpp(12,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\HeightMap.cpp(12,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Input.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Input.h(5,14): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  King.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(93,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(93,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(93,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(166,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(172,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(173,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(179,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(180,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(186,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(187,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(196,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(196,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(197,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(203,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(203,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\King.cpp(204,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  Knight.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(18,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(18,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(20,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(21,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(23,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(29,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Knight.cpp(29,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Light.cpp
+  Main.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Input.h(5,14): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Time.h(2,14): warning C4091: 'static ': ignored on left of 'Time' when no variable is declared
+  Model.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Model.cpp(83,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Model.cpp(83,34): warning C4267:         with
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Model.cpp(83,34): warning C4267:         [
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Model.cpp(83,34): warning C4267:             _Ty=unsigned int
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Model.cpp(83,34): warning C4267:         ]
+  Pawn.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(88,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(88,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(88,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(89,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(89,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(89,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(90,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(90,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(90,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(91,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(91,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Pawn.cpp(91,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Pixel.cpp
+  Queen.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(94,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(94,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(94,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(186,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(186,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(186,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(187,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(187,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(187,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(188,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(188,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(188,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(189,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(189,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(189,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(201,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(201,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Queen.cpp(202,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  RainbowCube.cpp
+  Rook.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(90,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(90,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(90,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(160,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(160,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Rook.cpp(161,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  Texture.cpp
+  TexturedCube.cpp
+  Time.cpp
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Time.h(2,14): warning C4091: 'static ': ignored on left of 'Time' when no variable is declared
+  Generating Code...
+GameObject.obj : error LNK2019: unresolved external symbol __imp_glutSolidCube referenced in function "private: virtual void __cdecl GameObject::drawGeometry(void)" (?drawGeometry@GameObject@@EEAAXXZ)
+GameObject.obj : error LNK2019: unresolved external symbol __imp_glutSolidCone referenced in function "private: void __cdecl GameObject::drawOrigin(void)" (?drawOrigin@GameObject@@AEAAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutDestroyWindow referenced in function "void __cdecl input(int,int,int)" (?input@@YAXHHH@Z)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Main.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutPassiveMotionFunc referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function "void __cdecl init(void)" (?init@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function main
+Time.obj : error LNK2001: unresolved external symbol __imp_glutGet
+Main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\Libraries\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\damie\Downloads\the_stunks (1)\the_stunks\x64\Debug\The_Stunks.exe : fatal error LNK1120: 19 unresolved externals

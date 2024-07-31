@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3AD59-2914-4BAB-9EA9-B9D8DEA3AE89}|GameObject.vcxproj|C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3AD59-2914-4BAB-9EA9-B9D8DEA3AE89}|GameObject.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C3AD59-2914-4BAB-9EA9-B9D8DEA3AE89}|GameObject.vcxproj|C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\ChessPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C3AD59-2914-4BAB-9EA9-B9D8DEA3AE89}|GameObject.vcxproj|solutionrelative:ChessPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T21:10:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessPiece.cpp",
+              "DocumentMoniker": "C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\ChessPiece.cpp",
+              "RelativeDocumentMoniker": "ChessPiece.cpp",
+              "ToolTip": "C:\\Users\\damie\\Downloads\\the_stunks (1)\\the_stunks\\ChessPiece.cpp",
+              "RelativeToolTip": "ChessPiece.cpp",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwI8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T21:21:18.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
